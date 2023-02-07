@@ -2,8 +2,8 @@
 
 ## Front-end Developer
 
-- 🌱 Currently learning everything I really can 😉
-- ⚡ Football, fishing and chess enthusiast 😃
+- 🌱 Currently learning everything I really can
+- ⚡ Football, fishing and chess enthusiast
 
 ---
 
