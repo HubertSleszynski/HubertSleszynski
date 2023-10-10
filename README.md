@@ -1,12 +1,5 @@
 # Hi there, I'm Hubert 👋 
 
-## Front-end Developer
-
-- 🌱 Currently learning everything I really can
-- ⚡ Football, fishing and chess enthusiast
-
----
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
