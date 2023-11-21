@@ -1,5 +1,15 @@
 # Hi there, I'm Hubert 👋 
 
+## A passionate frontend developer from Poland
+
+- 🌱 I’m currently learning **Node.js**
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **hubert1489@wp.pl**
+
+- ⚡ Fun fact **I am a decent chess player!**
+  
 ### Technologies and Tools:
 
 
