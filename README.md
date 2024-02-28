@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **hubert1489@wp.pl**
+- 📫 How to reach me **h.r.sleszynski@gmail.com**
 
 - ⚡ Fun fact **I am a decent chess player!**
   
