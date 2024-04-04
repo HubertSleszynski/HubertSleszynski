@@ -2,26 +2,25 @@
 
 ## A passionate frontend developer from Poland
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **how to continuously expanding my skill set, I'm always on the lookout for new challenges to further develop my expertise in frontend development.**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Frontend development best practices, architecture, responsive web design, or creating dynamic user interfaces.**
 
-- 📫 How to reach me **h.r.sleszynski@gmail.com**
-
-- ⚡ Fun fact **I am a decent chess player!**
+- ⚡ Fun fact **I am a decent chess player! If you're up for a game, challenge me anytime!**
   
 ### Technologies and Tools:
 
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,styledcomponents,js,react,vite,yarn,npm,git,github,figma,netlify)](https://skillicons.dev)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
+
+### Want to learn:
+
+[![My Skills-to-be](https://skillicons.dev/icons?i=nodejs,mongodb,nextjs)](https://skillicons.dev)
+
+### How to reach me:
+
+* 👔 [LinkedIn](https://www.linkedin.com/in/hubert-%C5%9Bleszy%C5%84ski-74b755231/)
+* ✉️ [h.r.sleszynski@gmail.com](mailto:h.r.sleszynski@gmail.com)
 
 <br />
 
