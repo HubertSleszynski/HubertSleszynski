@@ -18,7 +18,7 @@
 
 ### Want to learn:
 
-[![My Skills-to-be](https://skillicons.dev/icons?i=nodejs,mongodb,nextjs)](https://skillicons.dev)
+[![My Skills-to-be](https://skillicons.dev/icons?i=mongodb,express,nodejs,nextjs)](https://skillicons.dev)
 
 ### How to reach me:
 
