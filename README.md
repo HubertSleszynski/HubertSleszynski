@@ -14,7 +14,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,styledcomponents,js,react)](https://skillicons.dev)
 </br>
-[![My Skills](https://skillicons.dev/icons?i=vite,yarn,npm,git,github,figma,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,vite,yarn,npm,git,github,figma,netlify)](https://skillicons.dev)
 
 ### Want to learn:
 
