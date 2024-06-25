@@ -12,13 +12,15 @@
   
 ### Technologies and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,styledcomponents,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,styledcomponents,js,ts)](https://skillicons.dev)
 </br>
-[![My Skills](https://skillicons.dev/icons?i=firebase,vite,yarn,npm,git,github,figma,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,firebase,vite,yarn,npm,git,github)](https://skillicons.dev)
+</br>
+[![My Skills](https://skillicons.dev/icons?i=figma,netlify)](https://skillicons.dev)
 
 ### Want to learn:
 
-[![My Skills-to-be](https://skillicons.dev/icons?i=mongodb,express,nodejs,nextjs)](https://skillicons.dev)
+[![My Skills-to-be](https://skillicons.dev/icons?i=nodejs,mongodb,express,mysql)](https://skillicons.dev)
 
 ### How to reach me:
 
