@@ -18,9 +18,13 @@
 </br>
 [![My Skills](https://skillicons.dev/icons?i=figma,netlify)](https://skillicons.dev)
 
+### Currently learning:
+
+[![My Skills-to-be](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
+
 ### Want to learn:
 
-[![My Skills-to-be](https://skillicons.dev/icons?i=nodejs,mongodb,express,mysql)](https://skillicons.dev)
+[![My Dream-Skills-to-be](https://skillicons.dev/icons?i=php,mysql,postgresql)](https://skillicons.dev)
 
 ### How to reach me:
 
