@@ -9,8 +9,10 @@
 
 - 🚀 Passionate about pushing the boundaries of what's possible, I thrive in environments that encourage innovation and creativity, constantly seeking out opportunities to challenge myself and deliver exceptional frontend solutions.
 
-- ⚡ Fun fact **I am a decent chess player! If you're up for a game, challenge me anytime!**
-  
+- ⚡ Fun fact **I am a decent chess player! If you're up for a game, <a href="https://www.chess.com/member/dieppe1503" target="_blank">challenge me anytime</a>!**
+
+<img src="https://github.com/user-attachments/assets/67bc9079-7c9f-4d17-9547-98324ac7af25" width="250" height="250"/>
+
 ### Technologies and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,styledcomponents,js,ts)](https://skillicons.dev)
