@@ -1,6 +1,8 @@
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/9e3a0604-7049-431f-beb3-a7ad214e0f8b)
 # Hi there, I'm Hubert 👋 
 
+---
+
 ## A passionate frontend developer from Poland
 
 - 💼 **About me:** I have **3 years of experience** crafting responsive web applications. I love pushing the boundaries of what's possible on the frontend and delivering exceptional user experiences.
@@ -20,6 +22,8 @@
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=vscode,git,github,vite,npm,yarn,firebase,figma,postman)](https://skillicons.dev)
+
+---
 
 ### How to reach me:
 
