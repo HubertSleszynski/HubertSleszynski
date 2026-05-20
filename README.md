@@ -3,41 +3,25 @@
 
 ## A passionate frontend developer from Poland
 
-- 🌱 I’m currently learning **how to continuously expanding my skill set, I'm always on the lookout for new challenges to further develop my expertise in frontend development.**
+- 💼 **About me:** I have **3 years of experience** crafting responsive web applications. I love pushing the boundaries of what's possible on the frontend and delivering exceptional user experiences.
+  
+- 🌱 **Future goals:** I'm currently expanding my backend skills (Node.js, PostgreSQL, Prisma) on my journey to becoming a **Full-Stack Developer**.
+  
+- 💬 **Ask me about:** Frontend development best practices, responsive web design, or React/Next.js architecture.
+  
+- ⚡ **Fun fact:** Outside of programming, I love playing football and training my strategic thinking over a game of chess. If you're up for a match, <a href="https://www.chess.com/member/dieppe1503" target="_blank">challenge me</a>!
 
-- 💬 Ask me about **Frontend development best practices, architecture, responsive web design, or creating dynamic user interfaces.**
+---
 
-- 🚀 Passionate about pushing the boundaries of what's possible, I thrive in environments that encourage innovation and creativity, constantly seeking out opportunities to challenge myself and deliver exceptional frontend solutions.
+### 🛠️ Technologies & Tools
 
-- ⚡ Fun fact **I am a decent chess player! If you're up for a game, <a href="https://www.chess.com/member/dieppe1503" target="_blank">challenge me anytime</a>!**
-##
+[![Frontend](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs)](https://skillicons.dev)
 
-<img src="https://github.com/user-attachments/assets/67bc9079-7c9f-4d17-9547-98324ac7af25" width="250" height="250"/>
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma)](https://skillicons.dev)
 
-##
-
-### Technologies and Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,styledcomponents,js,ts)](https://skillicons.dev)
-</br>
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,firebase,vite,yarn,npm,git,github)](https://skillicons.dev)
-</br>
-[![My Skills](https://skillicons.dev/icons?i=figma,netlify)](https://skillicons.dev)
-
-### Currently learning:
-
-[![My Skills-to-be](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
-
-### Want to learn:
-
-[![My Dream-Skills-to-be](https://skillicons.dev/icons?i=php,mysql,postgresql)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,vite,npm,yarn,firebase,figma,postman)](https://skillicons.dev)
 
 ### How to reach me:
 
 * 👔 [LinkedIn](https://www.linkedin.com/in/hubertsleszynski/)
 * ✉️ [h.r.sleszynski@gmail.com](mailto:h.r.sleszynski@gmail.com)
-
-<br />
-
----
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=HubertSleszynski&show_icons=true&hide_border=true" />
