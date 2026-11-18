@@ -1,21 +1,29 @@
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/9e3a0604-7049-431f-beb3-a7ad214e0f8b)
-# Hi there, I'm Hubert 👋 
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/fc2281ea-8f9b-4dcc-ad33-3b3972ae4543)
+# Hi, I'm Hubert 👋
+
+
+### Full Stack Developer | React • Next.js • TypeScript • Node.js
+
+I'm a Full Stack Developer from Poland with over 3 years of
+professional experience in web development.
+
+My main focus is building responsive, maintainable and
+user-friendly applications with React, Next.js and TypeScript.
+
+I have professional experience in frontend development,
+including interactive web experiences, performance
+optimization and integration with external tools.
+
+My background also includes full-stack development,
+working with APIs, backend modules and software testing.
+
+Currently, I'm strengthening my backend skills and
+building end-to-end applications with Node.js, Express
+and PostgreSQL.
 
 ---
 
-## A passionate frontend developer from Poland
-
-- 💼 **About me:** I have **3 years of experience** crafting responsive web applications. I love pushing the boundaries of what's possible on the frontend and delivering exceptional user experiences.
-  
-- 🌱 **Future goals:** I'm currently expanding my backend skills (Node.js, PostgreSQL, Prisma) on my journey to becoming a **Full-Stack Developer**.
-  
-- 💬 **Ask me about:** Frontend development best practices, responsive web design, or React/Next.js architecture.
-  
-- ⚡ **Fun fact:** Outside of programming, I love playing football and training my strategic thinking over a game of chess. If you're up for a match, <a href="https://www.chess.com/member/dieppe1503" target="_blank">challenge me</a>!
-
----
-
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs)](https://skillicons.dev)
 
@@ -25,7 +33,36 @@
 
 ---
 
-### How to reach me:
+## 💼 Professional Experience
+
+**Frontend Developer - Rhapsody**
+- Developed web applications using React and Next.js
+- Integrated Ceros SDK for interactive web experiences
+- Worked on performance and user experience improvements
+- Collaborated with development teams
+
+**Full Stack Development Intern - Inn-Tek**
+- Worked on web application development and maintenance
+- Created APIs and application modules
+- Participated in software testing and optimization
+
+---
+
+## 🚀 What I'm Working On
+
+- Strengthening backend architecture and database skills
+- Building full-stack applications with Next.js and Express
+- Exploring AI integrations in modern web applications
+
+---
+
+## 🎓 Education
+
+Master's degree in Computer Science
+
+---
+
+## 📫 Connect With Me
 
 * 💻 [My Portfolio Website](https://hrs-dev.netlify.app/)
 * 👔 [LinkedIn](https://www.linkedin.com/in/hubertsleszynski/)
