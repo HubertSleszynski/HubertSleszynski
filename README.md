@@ -41,7 +41,7 @@ and PostgreSQL.
 - Worked on performance and user experience improvements
 - Collaborated with development teams
 
-**Full Stack Development Intern - Inn-Tek**
+**Full Stack Development Junior - Inn-Tek**
 - Worked on web application development and maintenance
 - Created APIs and application modules
 - Participated in software testing and optimization
